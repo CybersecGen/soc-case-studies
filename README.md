@@ -8,8 +8,8 @@ While my focus is cyber security, these projects highlight transferable skills i
 
 ## Case Studies
 
-- Email Phishing Awareness & Security Operations Improvement (Global Payments Provider)  
-- APT34-Style Attack Emulation & Risk Assessment (Technology Firm)
+- [Email Phishing Awareness & Security Operations Improvement (Global Payments Provider)](email-phishing.md)  
+- [APT34-Style Attack Emulation & Risk Assessment (Technology Firm)](apt34-assessment.md)
 
 ---
 
