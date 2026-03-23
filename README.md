@@ -6,7 +6,7 @@
 ## Project Overview
 
 This project evaluates organisational security posture through an advanced threat scenario aligned with tactics commonly associated with APT34.
-The objective was to assess detection capability, response readiness, and overall defensive maturity using adversary-informed analysis and structured risk assessment.
+The objective was to assess detection capability, response readiness, and overall defensive maturity using adversary informed analysis and structured risk assessment.
 
 ---
 
