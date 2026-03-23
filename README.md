@@ -25,7 +25,7 @@ The organisation required a threat-informed approach to strengthen detection and
 
 ## Solution
 
-An adversary-style assessment was conducted to evaluate prevention, detection, and response controls.
+An adversary style assessment was conducted to evaluate prevention, detection, and response controls.
 
 ### Key Activities
 - Performed forensic log analysis to identify detection gaps  
@@ -56,5 +56,5 @@ An adversary-style assessment was conducted to evaluate prevention, detection, a
 
 ## Key Takeaway
 
-Adversary-informed assessments provide measurable insight into detection gaps, response maturity, and control effectiveness.
+Adversary informed assessments provide measurable insight into detection gaps, response maturity, and control effectiveness.
 Structured testing enables continuous improvement of security operations and supports stronger security outcomes across cloud and hybrid environments, particularly in identity, access control, monitoring, and ongoing risk management.
