@@ -1,4 +1,4 @@
-# APT34-Style Attack Emulation & Risk Assessment  
+# APT34 Analysis & Risk Assessment  
 **Technology Firm**
 
 ---
